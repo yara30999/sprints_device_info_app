@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a simple page shows the device model and os version
 
-<img src="assets/home.jpg" alt="home" width="200">
+<img src="assets/home.jpg" alt="home" width="400">
